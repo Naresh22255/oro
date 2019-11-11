@@ -1,6 +1,52 @@
 /* Design2 CA ORO */
 
+html,
 body {
   margin: 0;
   padding: 0;
+  height: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+#cover {
+  background: #000;
+  color: white;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#cover-caption {
+  width: 100%;
+}
+
+.section-content {
+  padding: 6em 0;
+}
+
+#about {
+  background: url("img/car.jpg") center center no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.about-text {
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 1.876rem;
+}
+
+#footer-main {
+  background: #000;
+  color: #fff;
+  font-size: 0.8em;
+  padding: 2.6em 0;
 }

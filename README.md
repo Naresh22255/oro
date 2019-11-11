@@ -1,5 +1,5 @@
 # oro
 
-Design2
+Noroff-Design2
 
-This is CA for Desing2.
+This is Course Assignment for Desing2.
